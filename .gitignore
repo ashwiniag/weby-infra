@@ -1,0 +1,7 @@
+#terraform
+.terraform/
+planfile*
+*.tfstate
+*.tfstate.*
+errored.tfstate
+*reversed_for_destroy
